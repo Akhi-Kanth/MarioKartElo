@@ -294,7 +294,11 @@ class MarioKartEloSystem:
 
 
 
-
+# Things to add to this program
+    # Make this math work properly
+    # Custom TKinter
+    # Make another file for the implementation for this code
+    
 
 
 
@@ -304,10 +308,6 @@ class MarioKartEloSystem:
 
 
 
-MKS = MarioKartEloSystem('akhil', 'nav', 'peter', 'rishi')
-MKS.update_player_stats()
-MKS.new_elo()
-MKS.update_csv()
 
 
 # MKS.expected_outcome('akhil')
