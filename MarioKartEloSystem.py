@@ -291,25 +291,3 @@ class MarioKartEloSystem:
         # Save the updated player data to a CSV file named "player_data.csv" without indexing.
         self.all_player_data.to_csv("player_data.csv", index=False)
 
-
-
-
-# Things to add to this program
-    # Make this math work properly
-    # Custom TKinter
-    # Make another file for the implementation for this code
-    
-
-
-
-
-
-    # Rememeber to create a new vartiable for new elo cause we need the old elo for calculations
-
-
-
-
-
-# MKS.expected_outcome('akhil')
-
-# Just modifying git 
